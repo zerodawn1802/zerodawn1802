@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/website?label=TWITTER&style=for-the-badge&url=https://twitter.com/marupkd4105)](https://twitter.com/marupkd4105)
 [![Twitter Follow](https://img.shields.io/twitter/follow/marupkd4105?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fmarupkd4105&screen_name=marupkd4105)
 
-| ![1](https://www.nhatbanaz.com/wp-content/uploads/meo-maru-8.jpeg) | ![2](https://1.bp.blogspot.com/-i7kllY8gBIA/W8MZdRuEw5I/AAAAAAAAU2Y/e8JmNLrFy-on8pEcFn3n7IH7ywtLWrB0gCLcBGAs/s640/3-amazing-ideas-how-to-draw-heart-using-adobe-illustrator.png) | ![3](https://i1-vnexpress.vnecdn.net/2020/09/22/smilling-shiba-pics-1-5f684c7f-3655-6553-1600769370.jpg?w=680&h=0&q=100&dpr=1&fit=crop&s=pB-Mif1Nxqjaepi4fJkiPw) |
+| ![1](https://www.nhatbanaz.com/wp-content/uploads/meo-maru-8.jpeg) | ![2](https://1.bp.blogspot.com/-i7kllY8gBIA/W8MZdRuEw5I/AAAAAAAAU2Y/e8JmNLrFy-on8pEcFn3n7IH7ywtLWrB0gCLcBGAs/s640/3-amazing-ideas-how-to-draw-heart-using-adobe-illustrator.png) | ![3](https://i.pinimg.com/564x/70/c6/46/70c6461c88417f44ddb9926577eb3fb4.jpg) |
 | --- | --- | --- |
 
 ## I'm a Noob Coder from PKD with Luv!!
