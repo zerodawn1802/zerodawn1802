@@ -3,15 +3,15 @@
 [![Website](https://img.shields.io/website?label=TWITTER&style=for-the-badge&url=https://twitter.com/marupkd4105)](https://twitter.com/marupkd4105)
 [![Twitter Follow](https://img.shields.io/twitter/follow/marupkd4105?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fmarupkd4105&screen_name=marupkd4105)
 
-| ![1](https://www.nhatbanaz.com/wp-content/uploads/meo-maru-8.jpeg) | ![2](https://1.bp.blogspot.com/-i7kllY8gBIA/W8MZdRuEw5I/AAAAAAAAU2Y/e8JmNLrFy-on8pEcFn3n7IH7ywtLWrB0gCLcBGAs/s640/3-amazing-ideas-how-to-draw-heart-using-adobe-illustrator.png) | ![3](https://sohanews.sohacdn.com/thumb_w/1000/2017/photo-1-1514222367538.jpg) |
-| --- | --- | --- |
+| ![1](https://i.pinimg.com/564x/31/b2/cd/31b2cd22b4f7233df2e4f1a848c181b6.jpg) |
+| --- |
 
 ## I'm a Noob Coder from PKD with Luv!!
 
 - 🔭 You can see me: [Maru][course]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I'm chasing a lovely girl
-- ⚡ Fun fact: My luv begins with the letter T
+- ⚡ Fun fact: My luv has begun!
 
 ### Connect with me:
 
