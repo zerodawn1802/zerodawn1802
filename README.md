@@ -6,12 +6,12 @@
 | ![1](https://i.pinimg.com/564x/31/b2/cd/31b2cd22b4f7233df2e4f1a848c181b6.jpg) |
 | --- |
 
-## I'm a Noob Coder from PKD with Luv!!
+## I'm a Noob Coder from Ngoc Anh with Luv!!
 
 - 🔭 You can see me: [Maru][course]!
 - 🌱 I’m currently learning everything 🤣
-- 👯 I'm chasing a lovely girl
-- ⚡ Fun fact: My luv has begun!
+- 👯 I have a lovely girlfriend!
+- ⚡ Fun fact: Although we are far apart, we love each other very much!
 
 ### Connect with me:
 
