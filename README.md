@@ -50,7 +50,7 @@
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zerodawn1802)](https://github.com/anuraghazra/github-readme-stats)
 
 [website]: https://www.kaggle.com/nguynminhphng
-[course]: https://www.facebook.com/zerodawn1802/
+[course]: https://www.facebook.com/maru.minie.20.02/
 [twitter]: https://twitter.com/marupkd4105
 [youtube]: https://www.youtube.com/channel/UCAZ6JXeAFCvhRvtnI6aWOLw
 [instagram]: https://www.instagram.com/zerodawn1802/
