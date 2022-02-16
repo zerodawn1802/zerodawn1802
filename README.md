@@ -53,7 +53,7 @@
 [course]: https://www.facebook.com/maru.minie.20.02/
 [twitter]: https://twitter.com/marupkd4105
 [youtube]: https://www.youtube.com/channel/UCAZ6JXeAFCvhRvtnI6aWOLw
-[instagram]: https://www.instagram.com/zerodawn1802/
+[instagram]: https://www.instagram.com/maru.minie.20.02/
 
 ---
 # Project Based Learning
