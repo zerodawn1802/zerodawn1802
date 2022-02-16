@@ -52,7 +52,8 @@
 [website]: https://www.kaggle.com/nguynminhphng
 [course]: https://www.facebook.com/maru.minie.20.02/
 [twitter]: https://twitter.com/marupkd4105
-[youtube]: https://www.youtube.com/channel/UCAZ6JXeAFCvhRvtnI6aWOLw
+[youtube]: 
+www.youtube.com/channel/UCmJBR-Lk2Dey1nAyQhw2b5Q
 [instagram]: https://www.instagram.com/maru.minie.20.02/
 
 ---
