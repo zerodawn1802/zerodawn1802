@@ -54,7 +54,7 @@
 [twitter]: https://twitter.com/marupkd4105
 [youtube]: 
 www.youtube.com/channel/UCmJBR-Lk2Dey1nAyQhw2b5Q
-[instagram]: https://www.instagram.com/maru.minie.20.02/
+[instagram]: https://www.instagram.com/meo.maru.0/
 
 ---
 # Project Based Learning
