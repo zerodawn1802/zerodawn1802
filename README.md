@@ -6,7 +6,7 @@
 | ![1](https://i.pinimg.com/564x/31/b2/cd/31b2cd22b4f7233df2e4f1a848c181b6.jpg) |
 | --- |
 
-## I'm a Noob Coder from Ngoc Anh with Luv!!
+## I'm a Noob Coder from Vietnam with Luv!!
 
 - 🔭 You can see me: [Maru][course]!
 - 🌱 I’m currently learning everything 🤣
@@ -50,7 +50,7 @@
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zerodawn1802)](https://github.com/anuraghazra/github-readme-stats)
 
 [website]: https://www.kaggle.com/nguynminhphng
-[course]: https://www.facebook.com/maru.minie.20.02/
+[course]: https://www.facebook.com/meo.maru.0/
 [twitter]: https://twitter.com/marupkd4105
 [youtube]: 
 www.youtube.com/channel/UCmJBR-Lk2Dey1nAyQhw2b5Q
