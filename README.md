@@ -11,7 +11,7 @@
 - 🔭 You can see me: [Maru][course]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I'm alone but it's ok!
-- ⚡ Fun fact: Although we are far apart, we love each other very much!
+- ⚡ Fun fact: "Maru" means "Zero" in Japanese!
 
 ### Connect with me:
 
